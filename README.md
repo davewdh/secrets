@@ -13,5 +13,5 @@
 
 ## Secrets
 
-- 📦 [Repository]()
-- 🖥 [Site]()
+- 📦 [Repository](https://github.com/davewdh/secrets)
+- 🖥 [Site](https://secret-s.up.railway.app/)
